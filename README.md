@@ -1,6 +1,5 @@
 ---
 layout: post
-title: QuantumVault
 ---
 
 # My QuantumVault

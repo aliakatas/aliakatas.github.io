@@ -1,6 +1,5 @@
-# aliakatas.github.io
+# My QuantumVault
 
-Install Node.js + npm
-https://github.com/nodesource/distributions#ubuntu-versions
+Throughout my endeavours in programming, I come across guides which are not always exactly what I need or contain information that is irrelevant to my use cases. 
 
-for more visit https://aliakatas-github-io.vercel.app/
+Guided by this, I created these pages as a one-stop shop for me to keep track of what I need every now and then or if interesting ideas come to mind.

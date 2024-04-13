@@ -1,3 +1,8 @@
+---
+layout: post
+title: QuantumVault
+---
+
 # My QuantumVault
 
 Throughout my endeavours in programming, I come across guides which are not always exactly what I need or contain information that is irrelevant to my use cases. 

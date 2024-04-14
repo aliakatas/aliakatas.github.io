@@ -2,6 +2,8 @@
 It is better to have different keys for each machine you access Github from.
 In order to generate the keys, `ssh-keygen` needs to be installed to the system.
 
+This is the only way to connect to Github if not using an Enterprise account or the [Github CLI](https://cli.github.com/).
+
 More detailed instructions can be found on the official pages [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
 ## Generate
